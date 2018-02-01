@@ -1,2 +1,2 @@
 # hello-world
-# My name is Ethan, I like python and some other languages
+# My name is Ethan, I am currently learing java, javascript, and SQL.
